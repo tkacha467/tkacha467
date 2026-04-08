@@ -20,8 +20,18 @@
 - LinkedIn: https://in.linkedin.com/in/tushar-kacha
 - Email: kachatushar108@gmail.com
 
-- ## 🔗 Links
+## 🔗 Links
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tushar-kacha)
+<p align="left">
+  <a href="https://www.linkedin.com/in/tushar-kacha">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4)](https://scholar.google.com/citations?hl=en&user=XoE0DssAAAAJ&scilu=&scisig=ADQXK0wAAAAAadZI5avC_IJEhZeurnx_h4vu2WE&gmla=AEk_c1ssa_bGNeZ1E8ZEgIdGwl6d0KUxyWpyF5eVDsXpMVu9933xTvk-rLXhltROTY6V80WbX9tTblJyb5EzhFMbb69clUJy47l30Fs32cE&sciund=11721179564560593344)
+  <a href="https://scholar.google.com/citations?hl=en&user=XoE0DssAAAAJ">
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/>
+  </a>
+
+  <a href="mailto:kachatushar108@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
