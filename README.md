@@ -2,7 +2,7 @@
 
 🎓 Data Science student (MSc)  
 📍 Rajkot, Gujarat  
-📊 Interested in Data Analysis, Python, and Machine Learning  
+📊 Interested in Data Scientist, Python, and Machine Learning  
 🚀 Looking for internships / live projects to learn industry work  
 
 ### 🔧 Skills (Learning)
